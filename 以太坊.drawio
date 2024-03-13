@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T14:56:38.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="DZ6cfj4NpN1HbT_l0nMm" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T17:26:35.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="0sOju-VgaShkSdJt7qda" version="24.0.5" type="github">
   <diagram name="第 1 页" id="dRnIr3VR5EekNSpaTsAQ">
-    <mxGraphModel dx="3933" dy="2188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="-V5YBUerZ1B9hY4nsgt0-79" value="" style="line;strokeWidth=2;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-391.5" y="249.5" width="69" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-V5YBUerZ1B9hY4nsgt0-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;区块链&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-V5YBUerZ1B9hY4nsgt0-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;区块链&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247); color: rgb(76, 76, 76); font-family: __inter_879697, __inter_Fallback_879697, sans-serif; font-size: 16px; text-align: start;&quot;&gt;分布式账本&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-625" y="288" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-V5YBUerZ1B9hY4nsgt0-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;以太坊网络&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -159,6 +159,24 @@
         </mxCell>
         <mxCell id="-V5YBUerZ1B9hY4nsgt0-103" value="&lt;span style=&quot;color: rgb(76, 76, 76); font-family: __inter_879697, __inter_Fallback_879697, sans-serif; text-align: start; background-color: rgb(247, 247, 247);&quot;&gt;以太坊虚拟机上的代码执行请求&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="292" y="-67.36" width="46" height="293.36" as="geometry" />
+        </mxCell>
+        <mxCell id="-V5YBUerZ1B9hY4nsgt0-106" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="717" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-V5YBUerZ1B9hY4nsgt0-108" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;DAPP&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-V5YBUerZ1B9hY4nsgt0-109" value="dapp的后端" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="641" width="42" height="304" as="geometry" />
+        </mxCell>
+        <mxCell id="-V5YBUerZ1B9hY4nsgt0-111" value="&lt;span style=&quot;color: rgb(76, 76, 76); font-family: __inter_879697, __inter_Fallback_879697, sans-serif; text-align: start; background-color: rgb(247, 247, 247);&quot;&gt;去中心化 &lt;/span&gt;&lt;span style=&quot;font-family: __inter_879697, __inter_Fallback_879697, sans-serif; text-align: start; background-color: rgb(247, 247, 247);&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;P2P&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(76, 76, 76); font-family: __inter_879697, __inter_Fallback_879697, sans-serif; text-align: start; background-color: rgb(247, 247, 247);&quot;&gt; 网络上运行&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-364" y="830" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V5YBUerZ1B9hY4nsgt0-112" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="792" width="50" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="-V5YBUerZ1B9hY4nsgt0-113" value="特点：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.去中心化&lt;/span&gt;&lt;div&gt;&lt;div&gt;2.确定性：在任何环境执行相同&lt;/div&gt;&lt;div&gt;3.图灵完备：根据所需资源执行任何操作&lt;/div&gt;&lt;div&gt;4.隔离性：EVM虚拟机中执行，不影响区块链网络&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="54" y="816" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
